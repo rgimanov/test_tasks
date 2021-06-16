@@ -1,0 +1,823 @@
+{
+    "libraries": [
+        {
+            "name": "mega_sql_parser",
+            "dependencies": [
+                "implicit_string_writer",
+                "explicit_sql_divider",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "mega_object_connector",
+            "dependencies": []
+        },
+        {
+            "name": "py_city_connector",
+            "dependencies": [
+                "implicit_algorithm_combiner",
+                "ultra_syntax_reader"
+            ]
+        },
+        {
+            "name": "internal_object_shuffler",
+            "dependencies": [
+                "super_city_parser",
+                "yetanother_sql_analyzer",
+                "super_name_processor",
+                "ultra_algorithm_adapter",
+                "my_syntax_adapter",
+                "internal_sql_connector",
+                "implicit_algorithm_parser",
+                "ultra_name_adapter",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "mega_object_shuffler",
+            "dependencies": [
+                "deep_data_combiner",
+                "implicit_object_classifier"
+            ]
+        },
+        {
+            "name": "test_algorithm_combiner",
+            "dependencies": [
+                "implicit_algorithm_parser",
+                "test_syntax_cruncher",
+                "test_string_connector"
+            ]
+        },
+        {
+            "name": "ultra_data_adapter",
+            "dependencies": [
+                "explicit_number_combiner"
+            ]
+        },
+        {
+            "name": "py_algorithm_analyzer",
+            "dependencies": [
+                "mega_object_connector",
+                "implicit_name_divider",
+                "simple_object_parser",
+                "deep_number_combiner",
+                "yetanother_sql_analyzer",
+                "deep_object_analyzer",
+                "ultra_city_connector",
+                "super_name_writer",
+                "deep_name_divider"
+            ]
+        },
+        {
+            "name": "explicit_algorithm_parser",
+            "dependencies": [
+                "super_city_parser",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "super_string_shuffler",
+            "dependencies": [
+                "internal_algorithm_connector",
+                "internal_db_parser",
+                "yetanother_city_writer",
+                "implicit_syntax_connector",
+                "implicit_algorithm_parser",
+                "ultra_city_connector",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "ultra_string_connector",
+            "dependencies": [
+                "mega_object_connector",
+                "super_city_parser",
+                "simple_object_parser",
+                "yetanother_city_writer",
+                "internal_sql_connector",
+                "deep_name_divider"
+            ]
+        },
+        {
+            "name": "test_syntax_cruncher",
+            "dependencies": []
+        },
+        {
+            "name": "explicit_string_writer",
+            "dependencies": [
+                "simple_algorithm_concatenator",
+                "implicit_sql_cruncher",
+                "py_algorithm_analyzer",
+                "super_syntax_cruncher",
+                "py_city_adapter",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "implicit_name_divider",
+            "dependencies": [
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "internal_db_parser",
+            "dependencies": []
+        },
+        {
+            "name": "ultra_syntax_reader",
+            "dependencies": []
+        },
+        {
+            "name": "implicit_syntax_connector",
+            "dependencies": [
+                "mega_object_connector",
+                "internal_db_parser",
+                "ultra_algorithm_adapter",
+                "test_syntax_cruncher",
+                "ultra_city_connector",
+                "ultra_syntax_reader",
+                "deep_name_divider"
+            ]
+        },
+        {
+            "name": "yetanother_data_concatenator",
+            "dependencies": []
+        },
+        {
+            "name": "deep_name_divider",
+            "dependencies": []
+        },
+        {
+            "name": "my_algorithm_divider",
+            "dependencies": [
+                "test_name_analyzer",
+                "internal_sql_connector",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "my_data_connector",
+            "dependencies": []
+        },
+        {
+            "name": "yetanother_sql_analyzer",
+            "dependencies": []
+        },
+        {
+            "name": "ultra_algorithm_reader",
+            "dependencies": [
+                "test_number_reader",
+                "mega_object_connector",
+                "internal_db_parser",
+                "simple_object_parser",
+                "internal_name_cruncher",
+                "internal_data_shuffler",
+                "super_db_reader",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "deep_object_shuffler",
+            "dependencies": [
+                "test_name_analyzer",
+                "mega_object_connector",
+                "yetanother_data_concatenator",
+                "deep_json_cruncher",
+                "mega_sql_parser",
+                "internal_data_shuffler",
+                "py_data_analyzer"
+            ]
+        },
+        {
+            "name": "simple_sql_shuffler",
+            "dependencies": [
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "implicit_sql_cruncher",
+            "dependencies": [
+                "implicit_algorithm_processor",
+                "explicit_algorithm_parser",
+                "yetanother_data_concatenator",
+                "implicit_syntax_connector"
+            ]
+        },
+        {
+            "name": "super_number_combiner",
+            "dependencies": [
+                "ultra_syntax_reader",
+                "implicit_string_writer",
+                "internal_db_parser",
+                "yetanother_city_writer",
+                "yetanother_sql_analyzer",
+                "ultra_algorithm_adapter",
+                "internal_sql_connector",
+                "ultra_city_connector",
+                "super_name_writer"
+            ]
+        },
+        {
+            "name": "deep_sql_connector",
+            "dependencies": [
+                "test_name_analyzer",
+                "mega_number_connector",
+                "mega_object_connector",
+                "yetanother_string_classifier",
+                "py_sql_classifier"
+            ]
+        },
+        {
+            "name": "super_name_writer",
+            "dependencies": []
+        },
+        {
+            "name": "py_number_analyzer",
+            "dependencies": [
+                "yetanother_city_writer",
+                "super_number_combiner",
+                "implicit_syntax_connector"
+            ]
+        },
+        {
+            "name": "py_city_adapter",
+            "dependencies": [
+                "ultra_string_connector",
+                "ultra_algorithm_adapter",
+                "implicit_algorithm_parser",
+                "super_db_reader",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "mega_syntax_writer",
+            "dependencies": [
+                "deep_data_combiner",
+                "simple_object_parser",
+                "simple_syntax_cruncher",
+                "internal_data_shuffler",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "implicit_algorithm_processor",
+            "dependencies": [
+                "yetanother_city_writer",
+                "yetanother_sql_analyzer"
+            ]
+        },
+        {
+            "name": "simple_syntax_cruncher",
+            "dependencies": [
+                "yetanother_data_concatenator",
+                "simple_object_parser",
+                "yetanother_city_writer",
+                "deep_number_combiner",
+                "implicit_syntax_connector",
+                "implicit_algorithm_parser",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "yetanother_sql_shuffler",
+            "dependencies": [
+                "implicit_algorithm_parser",
+                "py_data_analyzer",
+                "simple_algorithm_concatenator"
+            ]
+        },
+        {
+            "name": "simple_object_parser",
+            "dependencies": []
+        },
+        {
+            "name": "test_name_shuffler",
+            "dependencies": [
+                "ultra_data_writer",
+                "internal_algorithm_connector",
+                "internal_db_parser",
+                "simple_object_parser",
+                "super_city_parser",
+                "implicit_algorithm_parser"
+            ]
+        },
+        {
+            "name": "simple_json_combiner",
+            "dependencies": [
+                "simple_algorithm_concatenator",
+                "deep_json_cruncher",
+                "yetanother_city_writer",
+                "implicit_syntax_connector"
+            ]
+        },
+        {
+            "name": "test_sql_connector",
+            "dependencies": [
+                "ultra_city_connector"
+            ]
+        },
+        {
+            "name": "ultra_name_adapter",
+            "dependencies": []
+        },
+        {
+            "name": "deep_number_shuffler",
+            "dependencies": []
+        },
+        {
+            "name": "super_syntax_cruncher",
+            "dependencies": [
+                "mega_number_connector",
+                "mega_object_connector",
+                "yetanother_sql_analyzer",
+                "ultra_string_connector",
+                "explicit_sql_divider",
+                "super_name_processor",
+                "ultra_city_connector",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "my_object_classifier",
+            "dependencies": []
+        },
+        {
+            "name": "my_db_adapter",
+            "dependencies": [
+                "super_string_shuffler",
+                "test_name_shuffler",
+                "implicit_algorithm_parser",
+                "deep_object_shuffler",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "my_sql_shuffler",
+            "dependencies": [
+                "my_db_writer",
+                "mega_object_connector",
+                "internal_db_parser",
+                "yetanother_city_writer",
+                "py_city_parser",
+                "internal_data_shuffler",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "mega_number_connector",
+            "dependencies": [
+                "internal_db_parser"
+            ]
+        },
+        {
+            "name": "super_name_processor",
+            "dependencies": [
+                "internal_db_parser",
+                "yetanother_city_writer",
+                "yetanother_sql_analyzer"
+            ]
+        },
+        {
+            "name": "mega_object_divider",
+            "dependencies": [
+                "yetanother_data_concatenator",
+                "implicit_name_divider",
+                "deep_object_analyzer",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "py_data_analyzer",
+            "dependencies": [
+                "implicit_string_writer",
+                "mega_number_connector",
+                "mega_object_connector",
+                "py_city_parser",
+                "super_db_reader",
+                "my_data_connector",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "implicit_object_classifier",
+            "dependencies": [
+                "test_name_analyzer",
+                "my_db_writer",
+                "yetanother_sql_analyzer",
+                "py_city_parser",
+                "test_syntax_cruncher",
+                "implicit_algorithm_processor",
+                "ultra_city_connector",
+                "ultra_syntax_reader",
+                "explicit_algorithm_parser"
+            ]
+        },
+        {
+            "name": "super_syntax_reader",
+            "dependencies": []
+        },
+        {
+            "name": "internal_db_divider",
+            "dependencies": [
+                "test_number_reader",
+                "test_name_shuffler",
+                "explicit_number_combiner",
+                "deep_name_divider"
+            ]
+        },
+        {
+            "name": "my_string_concatenator",
+            "dependencies": [
+                "super_db_reader",
+                "test_name_shuffler",
+                "py_algorithm_analyzer"
+            ]
+        },
+        {
+            "name": "deep_object_analyzer",
+            "dependencies": [
+                "mega_number_connector",
+                "internal_db_parser",
+                "yetanother_city_writer",
+                "ultra_string_connector",
+                "py_sql_classifier",
+                "internal_name_cruncher",
+                "ultra_name_adapter",
+                "deep_name_divider"
+            ]
+        },
+        {
+            "name": "implicit_data_analyzer",
+            "dependencies": [
+                "my_db_writer",
+                "yetanother_city_writer",
+                "simple_object_parser",
+                "internal_data_analyzer",
+                "explicit_sql_divider",
+                "implicit_syntax_connector",
+                "ultra_string_connector",
+                "super_syntax_cruncher",
+                "py_data_analyzer"
+            ]
+        },
+        {
+            "name": "test_name_analyzer",
+            "dependencies": [
+                "deep_name_divider",
+                "implicit_string_writer",
+                "yetanother_city_writer",
+                "my_data_connector",
+                "ultra_name_adapter",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "test_number_concatenator",
+            "dependencies": [
+                "py_city_parser",
+                "py_sql_classifier",
+                "internal_name_cruncher",
+                "simple_sql_reader"
+            ]
+        },
+        {
+            "name": "deep_object_adapter",
+            "dependencies": [
+                "internal_algorithm_connector",
+                "deep_number_shuffler",
+                "test_sql_connector",
+                "test_city_parser",
+                "yetanother_db_analyzer",
+                "implicit_algorithm_combiner"
+            ]
+        },
+        {
+            "name": "internal_algorithm_connector",
+            "dependencies": [
+                "ultra_syntax_reader",
+                "mega_object_connector",
+                "simple_object_parser",
+                "ultra_algorithm_adapter",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "internal_data_shuffler",
+            "dependencies": [
+                "ultra_algorithm_adapter",
+                "simple_sql_reader"
+            ]
+        },
+        {
+            "name": "implicit_db_divider",
+            "dependencies": [
+                "yetanother_syntax_combiner",
+                "test_city_parser",
+                "yetanother_data_concatenator",
+                "deep_object_shuffler",
+                "simple_sql_shuffler"
+            ]
+        },
+        {
+            "name": "super_db_reader",
+            "dependencies": [
+                "super_city_parser",
+                "yetanother_city_writer",
+                "simple_object_parser",
+                "my_data_connector",
+                "ultra_syntax_reader"
+            ]
+        },
+        {
+            "name": "yetanother_db_analyzer",
+            "dependencies": [
+                "simple_sql_reader",
+                "test_sql_connector",
+                "deep_data_combiner",
+                "mega_sql_parser",
+                "deep_number_combiner",
+                "ultra_string_connector"
+            ]
+        },
+        {
+            "name": "explicit_sql_divider",
+            "dependencies": [
+                "simple_object_parser"
+            ]
+        },
+        {
+            "name": "deep_number_combiner",
+            "dependencies": []
+        },
+        {
+            "name": "yetanother_city_writer",
+            "dependencies": []
+        },
+        {
+            "name": "deep_data_combiner",
+            "dependencies": [
+                "test_string_connector",
+                "my_db_writer",
+                "explicit_sql_divider",
+                "implicit_syntax_connector",
+                "py_sql_classifier",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "simple_sql_reader",
+            "dependencies": []
+        },
+        {
+            "name": "yetanother_number_connector",
+            "dependencies": [
+                "deep_object_analyzer"
+            ]
+        },
+        {
+            "name": "deep_json_cruncher",
+            "dependencies": [
+                "test_number_reader",
+                "test_name_analyzer",
+                "implicit_string_writer",
+                "mega_number_connector",
+                "internal_db_parser",
+                "simple_object_parser",
+                "internal_data_analyzer",
+                "explicit_algorithm_parser"
+            ]
+        },
+        {
+            "name": "ultra_algorithm_adapter",
+            "dependencies": []
+        },
+        {
+            "name": "ultra_number_connector",
+            "dependencies": [
+                "py_algorithm_analyzer"
+            ]
+        },
+        {
+            "name": "yetanother_string_classifier",
+            "dependencies": [
+                "test_number_reader",
+                "explicit_sql_divider",
+                "test_string_connector"
+            ]
+        },
+        {
+            "name": "super_db_divider",
+            "dependencies": [
+                "test_name_shuffler",
+                "yetanother_sql_analyzer"
+            ]
+        },
+        {
+            "name": "ultra_city_connector",
+            "dependencies": []
+        },
+        {
+            "name": "my_db_writer",
+            "dependencies": [
+                "simple_sql_reader",
+                "deep_number_combiner",
+                "ultra_city_connector",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "my_syntax_adapter",
+            "dependencies": []
+        },
+        {
+            "name": "yetanother_data_connector",
+            "dependencies": [
+                "simple_algorithm_concatenator",
+                "test_syntax_classifier",
+                "internal_algorithm_connector"
+            ]
+        },
+        {
+            "name": "test_string_connector",
+            "dependencies": [
+                "ultra_city_connector",
+                "super_city_parser",
+                "implicit_string_writer"
+            ]
+        },
+        {
+            "name": "py_sql_combiner",
+            "dependencies": [
+                "super_db_reader",
+                "internal_db_parser",
+                "deep_json_cruncher",
+                "simple_sql_reader"
+            ]
+        },
+        {
+            "name": "my_string_parser",
+            "dependencies": []
+        },
+        {
+            "name": "mega_db_parser",
+            "dependencies": []
+        },
+        {
+            "name": "super_city_parser",
+            "dependencies": []
+        },
+        {
+            "name": "internal_sql_connector",
+            "dependencies": []
+        },
+        {
+            "name": "py_city_parser",
+            "dependencies": [
+                "internal_db_parser",
+                "simple_object_parser",
+                "yetanother_sql_analyzer",
+                "ultra_algorithm_adapter",
+                "ultra_name_adapter"
+            ]
+        },
+        {
+            "name": "ultra_data_writer",
+            "dependencies": [
+                "my_data_connector",
+                "yetanother_sql_analyzer",
+                "simple_object_parser"
+            ]
+        },
+        {
+            "name": "implicit_algorithm_combiner",
+            "dependencies": [
+                "implicit_object_classifier",
+                "test_string_connector",
+                "internal_db_parser",
+                "yetanother_city_writer",
+                "super_city_parser",
+                "deep_json_cruncher",
+                "explicit_sql_divider",
+                "internal_data_shuffler",
+                "my_syntax_adapter"
+            ]
+        },
+        {
+            "name": "deep_db_combiner",
+            "dependencies": [
+                "deep_name_divider",
+                "test_string_connector",
+                "internal_data_analyzer",
+                "super_number_combiner",
+                "explicit_algorithm_parser"
+            ]
+        },
+        {
+            "name": "implicit_algorithm_parser",
+            "dependencies": [
+                "super_city_parser",
+                "simple_object_parser",
+                "deep_number_combiner",
+                "yetanother_sql_analyzer",
+                "ultra_name_adapter",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "test_number_reader",
+            "dependencies": []
+        },
+        {
+            "name": "py_sql_connector",
+            "dependencies": [
+                "deep_json_cruncher"
+            ]
+        },
+        {
+            "name": "internal_data_analyzer",
+            "dependencies": [
+                "simple_sql_reader",
+                "mega_object_connector",
+                "yetanother_city_writer",
+                "deep_number_combiner",
+                "ultra_name_adapter",
+                "internal_sql_connector",
+                "deep_name_divider"
+            ]
+        },
+        {
+            "name": "yetanother_syntax_combiner",
+            "dependencies": [
+                "implicit_object_classifier",
+                "deep_data_combiner",
+                "internal_db_parser",
+                "mega_sql_parser",
+                "deep_number_combiner",
+                "ultra_algorithm_adapter",
+                "internal_sql_connector",
+                "my_syntax_adapter",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "py_sql_classifier",
+            "dependencies": []
+        },
+        {
+            "name": "implicit_string_writer",
+            "dependencies": []
+        },
+        {
+            "name": "test_syntax_classifier",
+            "dependencies": [
+                "super_db_reader",
+                "implicit_name_divider",
+                "super_name_writer",
+                "test_syntax_cruncher"
+            ]
+        },
+        {
+            "name": "test_city_parser",
+            "dependencies": [
+                "mega_object_connector",
+                "explicit_algorithm_parser"
+            ]
+        },
+        {
+            "name": "explicit_number_combiner",
+            "dependencies": [
+                "test_name_analyzer",
+                "implicit_string_writer",
+                "simple_sql_reader",
+                "mega_object_connector",
+                "test_string_connector",
+                "super_city_parser",
+                "implicit_name_divider",
+                "py_city_parser"
+            ]
+        },
+        {
+            "name": "simple_algorithm_concatenator",
+            "dependencies": [
+                "internal_algorithm_connector",
+                "test_number_reader",
+                "yetanother_data_concatenator",
+                "yetanother_city_writer",
+                "internal_data_analyzer",
+                "super_number_combiner",
+                "py_city_parser",
+                "super_db_reader"
+            ]
+        },
+        {
+            "name": "internal_name_cruncher",
+            "dependencies": [
+                "implicit_string_writer",
+                "super_name_writer",
+                "internal_db_parser",
+                "ultra_city_connector",
+                "ultra_name_adapter"
+            ]
+        }
+    ]
+}
