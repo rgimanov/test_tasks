@@ -1,0 +1,13 @@
+text_id;markuper;markup_dt;subject1;subject2;subject3;subject4
+text_id1;markuper1;2021-06-01 12:00:01;mq1;mq2;mq1;mq3
+text_id1;markuper2;2021-06-01 12:00:33;mq2;mq2;mq2;mq3
+text_id1;markuper3;2021-06-01 12:00:12;mq2;mq2;mq3;mq1
+text_id2;markuper1;2021-06-01 12:00:06;mq1;mq2;mq1;mq1
+text_id2;markuper2;2021-06-01 12:00:05;mq2;mq3;mq1;mq3
+text_id2;markuper3;2021-06-01 12:00:04;mq3;mq3;mq1;mq1
+text_id3;markuper1;2021-06-01 12:00:08;mq2;mq2;mq1;mq1
+text_id3;markuper2;2021-06-01 12:00:07;mq2;mq3;mq1;mq3
+text_id3;markuper3;2021-06-01 12:00:09;mq3;mq3;mq1;mq1
+text_id4;markuper1;2021-06-01 12:00:12;mq1;mq2;mq1;mq1
+text_id4;markuper2;2021-06-01 12:00:10;mq2;mq3;mq1;mq3
+text_id4;markuper3;2021-06-01 12:00:11;mq3;mq3;mq1;mq1
